@@ -1,0 +1,21 @@
+{
+  "name": "hapi-routes-list",
+  "version": "1.0.0",
+  "description": "list your hapi routes in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plugin",
+    "routes",
+    "route",
+    "hapi",
+    "list"
+  ],
+  "author": "Fábio Antunes",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
